@@ -1,3 +1,4 @@
+import './theme.css'
 import firebase from 'firebase/app'
 import 'firebase/storage'
 import {upload} from './upload.js'
